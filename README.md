@@ -1,4 +1,4 @@
-# Friends Bank 🏦
+# Friends Bank 🏦- Application for Simulated Real-Time Banking Architecture with Multi-Agent Automation using Experimental Models
 
 ### A simulated banking environment powered by multi-agent AI
 
