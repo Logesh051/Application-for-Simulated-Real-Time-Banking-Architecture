@@ -168,8 +168,8 @@ The latest project report recorded **53 passing tests**. Run the command yoursel
 - [x] Setup instructions in this README
 - [x] Architecture explanation — see [`ARCHITECTURE.md`](ARCHITECTURE.md)
 - [x] Demo walkthrough — see [`DEMO_SCRIPT.md`](DEMO_SCRIPT.md)
-- [ ] Add the published GitHub repository URL where you share the project
-- [ ] Record and add the 5–10 minute demo video link
+- [ ] Project Github link - [https://github.com/Logesh051/Application-for-Simulated-Real-Time-Banking-Architecture.git](url)
+- [ ] Video Demo - [https://drive.google.com/file/d/14C2Ex_beKxABGLfk_g-28FCgrbQCzFZV/view?usp=sharing](url)
 
 ---
 
