@@ -1,0 +1,37 @@
+# Environment variables and local secrets
+.env
+.env.local
+*.env
+!.env.example
+
+# Python virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Streamlit local runtime cache
+.streamlit/secrets.toml
+
+# Operating system artifacts
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Assignment intake reference files
+*.pdf
+*.jpeg
+
+# IDE and editor configurations
+.vscode/
+.idea/
+*.swp
+*.swo
