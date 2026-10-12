@@ -1,0 +1,6 @@
+# Core application dependencies for Multi-Agent Banking System
+streamlit>=1.30.0
+python-dotenv>=1.0.0
+
+# Optional Gemini LLM SDK (application falls back to local parser if not configured)
+google-genai>=0.1.0
