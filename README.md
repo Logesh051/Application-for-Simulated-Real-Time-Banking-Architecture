@@ -1,4 +1,4 @@
-# Friends Bank — Simulated Multi-Agent Digital Banking Environment
+# Friends Bank — Application for Simulated Real-Time Banking Architecture with Multi-Agent Automation using Experimental Models
 
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.40+-FF4B4B.svg?style=flat&logo=streamlit&logoColor=white)](https://streamlit.io/)
