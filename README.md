@@ -87,7 +87,7 @@ These are demo rules, not real banking or lending policies.
 ### 1. Open the project folder
 
 ```powershell
-cd C:\Users\Logesh\Documents\Wrenchwiseassignment
+cd C:\Users\Logesh\Documents\BANKAPP
 ```
 
 ### 2. Create and activate a virtual environment
